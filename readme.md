@@ -41,14 +41,14 @@ pip install -r requirements.txt
 ```
 
 ### Configure MongoDB
-Enter the connection settings with the database in the [client_db.py](client_db.py:6) file.
+Enter the connection settings with the database in the [client_db.py](client_db.py#L6) file.
 ```
 class ClientDB():
     __MONGO = 'mongodb://root:123456@127.0.0.1:80'
 ```
 
 ### [Opcional step] Setting residential proxy
-Enter the host of your home proxies server in the [main.py](main.py:10) file.
+Enter the host of your home proxies server in the [main.py](main.py#L10) file.
 ```
 class Main():
     __PROXIES = {
