@@ -41,8 +41,20 @@ pip install -r requirements.txt
 ```
 
 ### Configure MongoDB
-Enter the connection settings with the database
-[client_db.py](client_db.py:6)
+Enter the connection settings with the database in the [client_db.py](client_db.py:6) file.
+```
+class ClientDB():
+    __MONGO = 'mongodb://root:123456@127.0.0.1:80'
+```
+
+### [Opcional step] Setting residential proxy
+Enter the host of your home proxies server in the [main.py](main.py:10) file.
+```
+class Main():
+    __PROXIES = {
+        'http': 'http://127.0.0.1:80'
+    }
+```
 
 ### Execute the crawler:
 Execute the command below to run the crawler:
