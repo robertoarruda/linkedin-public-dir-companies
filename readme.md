@@ -48,7 +48,7 @@ class ClientDB():
 ```
 
 ### [Opcional step] Setting residential proxy
-Enter the host of your home proxies server in the [main.py](main.py#L10) file.
+Enter the host of your residential proxies server in the [main.py](main.py#L10) file.
 ```
 class Main():
     __PROXIES = {
