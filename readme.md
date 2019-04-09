@@ -14,7 +14,7 @@ To run the crawler and scraper scalably, you will need to use a residential prox
 
 ### Clone the project:
 ```
-git clone git@github.com:robertoarruda/linkedin_companies.git
+git clone git@github.com:robertoarruda/linkedin-public-dir-companies.git
 ```
 
 ### Enter the project directory:
