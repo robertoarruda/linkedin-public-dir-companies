@@ -19,7 +19,7 @@ git clone git@github.com:robertoarruda/linkedin-public-dir-companies.git
 
 ### Enter the project directory:
 ```
-cd ./linkedin_companies
+cd ./linkedin-public-dir-companies
 ```
 
 ### Create the Environment:
