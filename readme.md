@@ -1,4 +1,4 @@
-# [Crawler + Scraper] LinkedIn Companies Public Directory
+# [Crawler + Scraper] LinkedIn Public Directory Companies
 
 ## Prerequisites
 - Python 3.7 `sudo apt-get install python3.7`
